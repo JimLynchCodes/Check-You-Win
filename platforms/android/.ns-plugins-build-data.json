@@ -1,0 +1,11 @@
+{
+	"@nativescript/core": {
+		"/Users/jlynch/Git-Projects/Check-You-Win/check-you-win-app/node_modules/tns-core-modules/node_modules/@nativescript/core/platforms/android/native-api-usage.json": "34ee0e9771ad7dd9d388c191734d71507a04565a"
+	},
+	"nativescript-lottie": {
+		"/Users/jlynch/Git-Projects/Check-You-Win/check-you-win-app/node_modules/nativescript-lottie/platforms/android/include.gradle": "bc914f3da75e50a284fe47c41f68daf38144d0a7"
+	},
+	"tns-core-modules-widgets": {
+		"/Users/jlynch/Git-Projects/Check-You-Win/check-you-win-app/node_modules/tns-core-modules-widgets/platforms/android/widgets-release.aar": "ea387e7a96a4ccb0df5c645b313c5dcf8042a0bb"
+	}
+}
