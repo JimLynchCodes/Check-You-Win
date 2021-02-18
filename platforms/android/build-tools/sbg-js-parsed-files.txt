@@ -1,3 +1,0 @@
-/Users/jlynch/Git-Projects/Check-You-Win/check-you-win-app/platforms/android/app/src/main/assets/app/runtime.js
-/Users/jlynch/Git-Projects/Check-You-Win/check-you-win-app/platforms/android/app/src/main/assets/app/bundle.js
-/Users/jlynch/Git-Projects/Check-You-Win/check-you-win-app/platforms/android/app/src/main/assets/app/vendor.js
